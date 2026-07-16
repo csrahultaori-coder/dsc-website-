@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dscsuvidhakendra.online/sitemap.xml
